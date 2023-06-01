@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+192.168.0.195	TRUE	/	FALSE	1999999999	0c5b88f6ca3aa5b4339e9a6854a28cac	p3hum2qo7cje3tocmdaab05bfs
+
